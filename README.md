@@ -1,3 +1,3 @@
 # Password-Generator
 
-# In this Code i have Generate random Password by using random module
+# In this Code I have Generated random Password by using random module in Python
